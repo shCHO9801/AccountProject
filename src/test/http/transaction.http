@@ -14,8 +14,8 @@ Content-Type: application/json
 
 {
   "userId": 1,
-  "accountNumber": "1000000002",
-  "amount": 100
+  "accountNumber": "3366058480",
+  "amount": 10000
 }
 
 ### cancel balance
